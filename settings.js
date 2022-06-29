@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94725292890']
-global.premium = ['94725292890']
-global.ownernomer = '94725292890'
-global.ownername = '么° 🄼 SHANZ 🥀 | ❤️'
-global.botname = 'SHANZ-BOT'
-global.footer = '©MRSHANZ.'
+global.owner = ['94711056973']
+global.premium = ['94711056973']
+global.ownernomer = '94711056973'
+global.ownername = '❤️GMDLB ABERATHNA❤️'
+global.botname = '🍃ᴅɪɴᴜ ʙᴏᴛ🍃'
+global.footer = '©GMDLB ABERATHNA.'
 global.ig = 'https://pin.it/7ln105o'
-global.region = 'Kandy,Sri lanka'
-global.sc = 'http://wa.me/94704210265'
-global.myweb = 'https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw'
-global.packname = 'SHANZ-BOT'
-global.author = '么° 🄼 SHANZ 🥀 | ❤️'
+global.region = 'Gampaha,Sri lanka'
+global.sc = 'http://wa.me/94711056973'
+global.myweb = 'https://youtube.com/channel/UCbPXOlyLjsRINE2S2fYVkrA'
+global.packname = '🍃ᴅɪɴᴜ ʙᴏᴛ🍃'
+global.author = '❤️GMDLB ABERATHNA❤️'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🌝','😐','🗿']
 global.sp = '⭔'
